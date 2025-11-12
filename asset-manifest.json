@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/willkonhub/static/css/main.088fbb88.css",
+    "main.js": "/willkonhub/static/js/main.e5bfd9d4.js",
+    "static/js/453.9024e0cd.chunk.js": "/willkonhub/static/js/453.9024e0cd.chunk.js",
+    "index.html": "/willkonhub/index.html",
+    "main.088fbb88.css.map": "/willkonhub/static/css/main.088fbb88.css.map",
+    "main.e5bfd9d4.js.map": "/willkonhub/static/js/main.e5bfd9d4.js.map",
+    "453.9024e0cd.chunk.js.map": "/willkonhub/static/js/453.9024e0cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.088fbb88.css",
+    "static/js/main.e5bfd9d4.js"
+  ]
+}
